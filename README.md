@@ -61,3 +61,6 @@ Run the next command to install project dependencies.
 
 Run the next command to start jupyter.
 `jupyter lab`
+
+In linux install dependencies
+`sudo apt-get install graphviz`
